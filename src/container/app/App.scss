@@ -1,0 +1,17 @@
+.loader path{
+  stroke: #4B2E6F;
+  fill:#79589F;
+  fill-opacity:0;
+  stroke-width: 1;
+  stroke-dasharray: 1200;
+  stroke-dashoffset:1200;
+  -moz-animation: DRAW-LINE 2s ease-in-out 1s forwards;
+  -webkit-animation: DRAW-LINE 2s ease-in-out 1s forwards;
+  animation: DRAW-LINE 2s ease-in-out 1s forwards;
+}
+
+@-webkit-keyframes DRAW-LINE {
+  0%  { stroke-dashoffset:1200; }
+  80%  { stroke-dashoffset:0;fill-opacity:0; }
+  100%{ stroke-dashoffset:0;fill-opacity:1; }
+}

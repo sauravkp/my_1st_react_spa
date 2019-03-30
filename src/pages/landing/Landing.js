@@ -9,6 +9,7 @@ class Landing extends Component {
     return (
       <section className="landing">
         <h1>Landing</h1>
+        <h2>Checking automated dep</h2>
       </section>
     )
   }

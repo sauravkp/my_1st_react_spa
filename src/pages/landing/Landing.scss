@@ -1,0 +1,16 @@
+.landing {
+
+    .hero {
+        background: purple;
+        min-height: 400px;
+        .content {
+            padding: 32px 42px;
+            display: flex;
+            color: white;
+            div {
+                align-self: center;
+                flex: 1;
+            }
+        }
+    }
+}

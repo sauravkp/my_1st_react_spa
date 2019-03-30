@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(28.000000, 20.000000)">
+            <g id="Group" transform="translate(44.000000, 0.000000)" fill="#682F92">
+                <path d="M95.5230022,163 L155.236575,103.174326 L175.091767,83.2818593 L178.901777,79.4646964 L194.863026,95.1775989 L209.486347,43.9927837 L156.916433,57.8214284 L174.624997,75.2544596 L146.817182,102.876471 L91,158.320701 L91,0 L255,0 L255,163 L95.5230022,163 Z" id="Combined-Shape"></path>
+                <path d="M155.547681,103 L175.39799,83 L182,83 L182,246 L0,246 L0,83 L166.902642,83 L146.833039,103 L20,103 L20,226 L162,226 L162,103 L155.547681,103 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            </g>
+            <text id="CentEdge" font-family=' -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue' font-size="81" font-weight="bold" fill="#662D91">
+                <tspan x="0.766" y="340">CentEdge</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

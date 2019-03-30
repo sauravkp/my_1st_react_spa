@@ -1,6 +1,17 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 42px;
+    div {
+        align-self: center;
+    }
+}
+
+
 .navTabsBar{
     display: block;
-    background-color: #383A5F;
+    background-color: transparent;
     padding: 0;
 }
 
@@ -31,16 +42,16 @@
 .navTabs-list{
     margin-bottom: 0;
     margin-left: 0px;
-    padding-left: 25px;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .navTabs-item a {
     display: inline-block;
     font-size: 14px;
     text-transform: uppercase;
-    color: #FFFFFF;
+    color: #682F92;
     white-space: nowrap;
     padding-bottom: 16px;
     letter-spacing: 0.9px;

@@ -18,7 +18,7 @@ class Landing extends Component {
                 <h3>Sign up to get virtual classrooms for your school / colleges</h3>
               </div>
               <div>
-                <img src="https://epecate.com/wp-content/uploads/2019/01/virtual_classroom3_imac2015retina_front-1024x1024.png" />
+                <img height="400" src="https://epecate.com/wp-content/uploads/2019/01/virtual_classroom3_imac2015retina_front-1024x1024.png" />
               </div>
           </div>
         </div>

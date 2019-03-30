@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './Landing.scss';
 import { Link } from "react-router-dom";
 import Header from '../../components/header/Header';
+import Footer from '../../components/footer/Footer';
 import { siteData } from '../../constant';
 import Icon from '@material-ui/core/Icon';
 
@@ -85,6 +86,8 @@ class Landing extends Component {
             
           </div>
         </div>
+      
+        <Footer/>
       </section>
     )
   }

@@ -15,7 +15,8 @@ class Footer extends Component {
                 <div className="is-row">
                     <div className="is-col-sm-12 is-col-md-6">
                         <h6>About</h6>
-                        <p className="text-justify">Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative  to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.</p>
+                        <p className="text-justify">
+                        Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
                     </div>
 
                     <div className="is-col-xs-6 is-col-md-3"  style={{visibility:'hidden'}}>

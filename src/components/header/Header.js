@@ -39,6 +39,8 @@ class Header extends Component {
                         </NavLink>
                     </li>
 
+                    {/* 
+   
                     <li className="navTabs-item">
                       <Button
                         aria-owns={anchorEl ? 'simple-menu' : undefined}
@@ -65,7 +67,7 @@ class Header extends Component {
                           Pricing
                       </NavLink> 
                     </li>
-              
+                  */}
                 </ul>
             </nav>
         </div>

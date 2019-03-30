@@ -1,3 +1,4 @@
+
 .landing {
 
     .hero {
@@ -13,4 +14,29 @@
             }
         }
     }
+    .features {
+        padding: 42px 8%;
+        color: #4C4C4C;
+        .headline {
+            font-size: 42px;
+            text-align: center;
+            margin-bottom: 32px;
+        } 
+
+        .card {
+            text-align: center;
+            padding: 14px;
+            transition: box-shadow 0.5s ease-out;
+
+            &:hover {
+                border-radius: 8px;
+                background: white;
+                box-shadow: 0 2px 20px 0 rgba(0,0,0,.1);
+                transition: box-shadow 0.5s;
+
+            }
+        }
+    }
+
+
 }

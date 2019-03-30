@@ -1,5 +1,5 @@
 {
-  "name": "natashagoodwin.me",
+  "name": "centedge.in",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -118,8 +118,6 @@
       "node"
     ],
     "watchPlugins": [
-      "/Users/princealikhan/Github/natashagoodwin.me/node_modules/jest-watch-typeahead/filename.js",
-      "/Users/princealikhan/Github/natashagoodwin.me/node_modules/jest-watch-typeahead/testname.js"
     ]
   },
   "babel": {

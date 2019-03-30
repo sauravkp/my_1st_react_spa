@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "name": "natasha-goodwin-website",
-  "alias": "natashagoodwin.me",
+  "name": "centedge",
+  "alias": "centedge.in",
   "builds": [
     {
       "src": "package.json",

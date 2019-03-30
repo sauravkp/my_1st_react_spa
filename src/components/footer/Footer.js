@@ -42,11 +42,11 @@ class Footer extends Component {
                                 Home
                             </NavLink>  
                         </li>   
-                        <li>
+                        {/* <li>
                             <NavLink to="/pricing" activeClassName="is-active">
                                 Pricing
                             </NavLink>  
-                        </li> 
+                        </li>  */}
                         </ul>
                     </div>
                 </div>

@@ -2,7 +2,7 @@ import ExperienceBadge from './assets/images/temp-placeholder.svg'
 
 export const siteData = {
     name: 'Lorm ipsu',
-    email: 'pingme@sdf.me',
+    email: 'email@me.com',
     pages: {
         about: {
             hero: {

@@ -1,15 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-2" transform="translate(28.000000, 20.000000)">
-            <g id="Group" transform="translate(44.000000, 0.000000)" fill="#682F92">
-                <path d="M95.5230022,163 L155.236575,103.174326 L175.091767,83.2818593 L178.901777,79.4646964 L194.863026,95.1775989 L209.486347,43.9927837 L156.916433,57.8214284 L174.624997,75.2544596 L146.817182,102.876471 L91,158.320701 L91,0 L255,0 L255,163 L95.5230022,163 Z" id="Combined-Shape"></path>
-                <path d="M155.547681,103 L175.39799,83 L182,83 L182,246 L0,246 L0,83 L166.902642,83 L146.833039,103 L20,103 L20,226 L162,226 L162,103 L155.547681,103 Z" id="Combined-Shape" fill-rule="nonzero"></path>
-            </g>
-            <text id="CentEdge" font-family=' -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue' font-size="81" font-weight="bold" fill="#662D91">
-                <tspan x="0.766" y="340">CentEdge</tspan>
-            </text>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 250 150" style="enable-background:new 0 0 250 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#662D91;}
+	.st2{font-family:'SegoeUI-Semibold';}
+	.st3{font-size:30px;}
+</style>
+<g>
+	<rect x="0.13" y="0.13" class="st0" width="249.75" height="149.75"/>
+	<path d="M249.75,0.25v149.5H0.25V0.25H249.75 M250,0H0v150h250V0L250,0z"/>
+</g>
+<g>
+	<rect x="45" y="74.41" class="st0" width="18.04" height="14.59"/>
+	<path class="st1" d="M61.04,76.41V87H47V76.41H61.04 M65.04,72.41H43V91h22.04V72.41L65.04,72.41z"/>
+</g>
+<g>
+	<rect x="53.52" y="64" class="st1" width="21.48" height="18"/>
+</g>
+<g>
+	<line class="st1" x1="53.38" y1="82.47" x2="68" y2="69"/>
+	<g>
+		<g>
+			<polygon class="st0" points="53.65,82.76 64.08,73.15 66.04,75.28 68,69 61.58,70.44 63.54,72.57 53.11,82.18 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 91.0908 84.3184)" class="st1 st2 st3">CentEdge</text>
 </svg>
